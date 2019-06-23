@@ -38,10 +38,6 @@ The main file is RNN Time-lagged autoencoder.ipynb
 
 * [tugot17](https://github.com/tugot17)
 
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
