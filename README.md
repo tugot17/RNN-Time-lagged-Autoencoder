@@ -22,7 +22,6 @@ The obtained results are surprisingly good, thanks to the nonlinear transformati
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com)
 The main file is RNN Time-lagged autoencoder.ipynb
 
-
 ### Prerequisites
 ```
 -tensorflow 2.0
